@@ -2,5 +2,5 @@ nom : Ana GONZALEZ PATINO
 âge : 20 ans
 sexe : Femme 
 taille : 1.60 mètres
-couleur preférée : bleu
+artiste préféré : No Doubt
 lieu de naissance : Ville de Mexico
